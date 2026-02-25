@@ -38,11 +38,11 @@ The insights derived from this project can help guide:
 
 The dataset contains best-selling books between 2023–2025 and includes the following key features:
 
-Title
+title
 
 Author
 
-Genre
+Genre:
 
 Publishing Date
 
@@ -76,17 +76,12 @@ Grouping data by year and genre
 
 Calculating average ratings and engagement metrics
 
-Visualizing trends using interactive charts
-
-📈 Key Insights (Example Section – Update After Results)
-
 Some mid-priced books maintain higher average ratings than lower-priced alternatives.
 
 Certain genres consistently outperform others in both engagement and satisfaction.
 
-One specific year showed a noticeable peak in average customer ratings.
+<img width="1419" height="410" alt="top genre views" src="https://github.com/user-attachments/assets/1b846122-a86b-4dbc-9773-adddb45530e8" />
 
-(Update this section with your real findings.)
 
      📂 Project Structure
      📦 best-selling-books-analysis
@@ -99,7 +94,7 @@ One specific year showed a noticeable peak in average customer ratings.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/best-selling-books-analysis.git
+git clone [https://github.com/yourusername/best-selling-books-analysis.git](https://github.com/baianlayan-netizen/final_project/blob/main/README.md)
 
 
     👤 Author
